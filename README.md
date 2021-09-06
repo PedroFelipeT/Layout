@@ -1,4 +1,4 @@
-# tela_simples
+# projeto_mobile
 
 A new Flutter project.
 

@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
-import 'page_room.dart';
+import 'src/screens/layout_home.dart';
+import 'src/screens/screen_home.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: RoomPage(),
+    //home: PageHome(), // Tela usando MediaQuery
+    home: LayoutHome(), //Tela com biblioteca flutter_screenutil
     debugShowCheckedModeBanner: false,
   ));
 }

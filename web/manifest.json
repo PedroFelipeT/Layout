@@ -1,6 +1,6 @@
 {
-    "name": "tela_simples",
-    "short_name": "tela_simples",
+    "name": "projeto_mobile",
+    "short_name": "projeto_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
