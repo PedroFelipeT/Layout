@@ -1,3 +1,8 @@
+# Imagem do modelo com o resultado final
+
+![layout](https://user-images.githubusercontent.com/43012542/134093496-e704ae9b-aaa1-460a-b638-bb8bd7fb34d2.jpg)
+
+
 # projeto_mobile
 
 A new Flutter project.
